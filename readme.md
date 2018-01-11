@@ -3,9 +3,11 @@
 * Network activity
 * Remotes
 * Fetch/push
+* Exercise 1
 * Branches
+* Exercise 2
 * Managing student repositories
 * GitHub Classroom
 * Permissions
-* Exercises
+* Exercise 3
 * Discussion
